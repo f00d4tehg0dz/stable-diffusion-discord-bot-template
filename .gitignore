@@ -7,6 +7,7 @@ command
 #ignore .env
 .env.development
 .env.production
+.env
 
 # ignore history
 .history

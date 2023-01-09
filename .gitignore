@@ -1,4 +1,4 @@
-#ignore commons
+#ignore common
 node_modules
 package-lock.json
 yarn.lock
@@ -7,9 +7,6 @@ command
 #ignore .env
 .env.development
 .env.production
-
-#ignore db
-conversation.db
 
 # ignore history
 .history

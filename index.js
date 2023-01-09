@@ -1,4 +1,5 @@
-require('dotenv-flow').config();
+const dotenv = require('dotenv');
+dotenv.config();
 const { Client, Collection, Partials, GatewayIntentBits } = require('discord.js');
 const fs = require('node:fs');
 const path = require('node:path');

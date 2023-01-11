@@ -2,14 +2,14 @@
 
 ## Features
 
-- Image Generation using the latest AI image generative algorithms
+- Image Generation using Stable Diffusion 1.5 & 2.1
 
-Follow these [instructions](https://youtu.be/aAyvsX-EpG4) to use a local/remote webUI that can easily talk to to the commands used here.
-- I used [runpod.io](https://www.runpod.io/console/pods)
+Follow these [instructions](https://youtu.be/aAyvsX-EpG4) on how to use the local/remote webUI that has a built in API
+- I used [runpod.io](https://www.runpod.io/console/pods) to host the StableDiffusion 2.1 with WebUI
 
 ## Running Commands
 
-Rename ".env.example" file to ".env.production".
+Rename ".env.example" file to ".env".
 
 To run the bot, run the following command
 
